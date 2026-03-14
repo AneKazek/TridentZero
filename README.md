@@ -70,7 +70,3 @@ Aplikasi web dapat diakses di `http://localhost:5173`.
 Pastikan dompet MetaMask Anda terkoneksi ke Network Lokal (`http://127.0.0.1:8545` Chain ID `31337`).
 
 ---
-
-## 🔐 Keamanan
-
-Semua `private key` dan `.env` telah diblokir melalui `.gitignore`. Harap berhati-hati agar **tidak pernah melakukan komit Private Key Sepolia Anda ke repositori ini** secara sengaja.
